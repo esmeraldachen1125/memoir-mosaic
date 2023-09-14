@@ -1,0 +1,26 @@
+{
+  "name": "memoir-mosaic",
+  "version": "1.0.0",
+  "description": "A tool to help you build great stories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esmeraldachen1125/memoir-mosaic.git"
+  },
+  "keywords": [
+    "story"
+  ],
+  "author": "Esmeralda Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esmeraldachen1125/memoir-mosaic/issues"
+  },
+  "homepage": "https://github.com/esmeraldachen1125/memoir-mosaic#readme",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.6.0"
+  }
+}
